@@ -1,1 +1,3 @@
-*.* linguist-language=Swift
+*.* linguist-language=TypeScript
+*.strings diff=localizablestrings
+
